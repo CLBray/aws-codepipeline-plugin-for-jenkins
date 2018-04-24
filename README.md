@@ -54,3 +54,5 @@ Supported archive formats:
 
 This plugin is open sourced and licensed under Apache 2.0. See the LICENSE file
 for more information.
+
+4/24 - Change #4
